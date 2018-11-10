@@ -1,5 +1,7 @@
 # Vue Chat
 
+![chat-logo](https://user-images.githubusercontent.com/6087113/48301154-5c309200-e4e9-11e8-8a42-33ab51d7ec77.png)
+
 > Example VueJS chat app connected with Firebase database
 
 ## [DEMO](https://vue-fire-chat-ddf55.firebaseapp.com)
@@ -17,8 +19,6 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
