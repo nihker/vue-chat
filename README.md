@@ -1,6 +1,9 @@
-# vue-fire-chat
+# Vue Chat
 
 > Example VueJS chat app connected with Firebase database
+
+## [DEMO](https://vue-fire-chat-ddf55.firebaseapp.com)
+
 
 ## Build Setup
 
