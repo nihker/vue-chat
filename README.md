@@ -6,6 +6,10 @@
 
 ## [DEMO](https://vue-fire-chat-ddf55.firebaseapp.com)
 
+## Next Tasks
+- Add Emojis
+- Add Authentication with Firebase
+- Create private channel
 
 ## Build Setup
 
