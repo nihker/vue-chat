@@ -24,3 +24,9 @@ npm run dev
 npm run build
 
 ```
+
+## Built With
+
+* [VueJS 2](https://vuejs.org/)
+* [Materializecss](https://materializecss.com/)
+* [Firebase](https://firebase.google.com/)
